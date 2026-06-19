@@ -66,7 +66,6 @@
     { "x": -2400, "y": -2243, "z": 161, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "finish" }
 ],
 
-
     "props": [
         { "model": "m23_2_prop_m32_curb_str_m_01a", "x": -2400, "y": -2400, "z": 150, "heading": 0 },
         { "model": "m23_2_prop_m32_curb_str_m_01a", "x": -2400, "y": -2414.4, "z": 149.2, "heading": 0 },
