@@ -1,0 +1,86 @@
+{
+    "name": "CM F2F Map 1",
+    "thumbnail": "img/CM F2F Map 1.png",
+    "author": "itsDeleted",
+    "type": "f2f",
+    "laps": 1,
+
+    "allowedClasses": [
+        "compacts",
+        "coupes",
+        "sedans",
+        "muscle",
+        "sports",
+        "sportsclassics",
+        "super",
+        "offroad",
+        "suvs",
+        "vans",
+        "motorcycles",
+        "emergency",
+        "service",
+        "industrial",
+        "utility",
+        "cycles"
+    ],
+
+    "spawnpoints": [
+        { "x": -2400.0, "y": -2400.0, "z": 150, "heading": 0 },
+        { "x": -2396.5, "y": -2400.0, "z": 150, "heading": 0 },
+        { "x": -2393.0, "y": -2400.0, "z": 150, "heading": 0 },
+        { "x": -2389.5, "y": -2400.0, "z": 150, "heading": 0 },
+
+        { "x": -2400.0, "y": -2403.5, "z": 150, "heading": 0 },
+        { "x": -2396.5, "y": -2403.5, "z": 150, "heading": 0 },
+        { "x": -2393.0, "y": -2403.5, "z": 150, "heading": 0 },
+        { "x": -2389.5, "y": -2403.5, "z": 150, "heading": 0 },
+
+        { "x": -2400.0, "y": -2407.0, "z": 150, "heading": 0 },
+        { "x": -2396.5, "y": -2407.0, "z": 150, "heading": 0 },
+        { "x": -2393.0, "y": -2407.0, "z": 150, "heading": 0 },
+        { "x": -2389.5, "y": -2407.0, "z": 150, "heading": 0 },
+
+        { "x": -2400.0, "y": -2410.5, "z": 150, "heading": 0 },
+        { "x": -2396.5, "y": -2410.5, "z": 150, "heading": 0 },
+        { "x": -2393.0, "y": -2410.5, "z": 150, "heading": 0 },
+        { "x": -2389.5, "y": -2410.5, "z": 150, "heading": 0 }
+    ],
+
+    "checkpoints": [
+    { "x": -2400, "y": -2385, "z": 151, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "start" },
+
+    { "x": -2400, "y": -2412, "z": 150, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" }, 
+    { "x": -2400, "y": -2230, "z": 160, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+
+    { "x": -2400, "y": -2409, "z": 150.5, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+    { "x": -2400, "y": -2233, "z": 160, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+
+    { "x": -2400, "y": -2406, "z": 150, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+    { "x": -2400, "y": -2236, "z": 160, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+
+    { "x": -2400, "y": -2403, "z": 151, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+    { "x": -2400, "y": -2240, "z": 161, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+
+    { "x": -2400, "y": -2400, "z": 150, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "random" },
+
+    { "x": -2400, "y": -2243, "z": 161, "heading": 0, "drawDiameter": 0.5, "collectDiameter": 0.5, "type": "finish" }
+]
+
+
+    "props": [
+        { "model": "m23_2_prop_m32_curb_str_m_01a", "x": -2400, "y": -2400, "z": 150, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_m_01a", "x": -2400, "y": -2414.4, "z": 149.2, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2383.5, "z": 151, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2367, "z": 152, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2351.5, "z": 153, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2336, "z": 154, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2321, "z": 155, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2306, "z": 156, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2291, "z": 157, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2276, "z": 158, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_s_01b", "x": -2400, "y": -2261, "z": 159, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_m_01a", "x": -2400, "y": -2246, "z": 160, "heading": 0 },
+        { "model": "m23_2_prop_m32_curb_str_m_01a", "x": -2400, "y": -2231.7, "z": 160, "heading": 180 }
+    ]
+}
+
