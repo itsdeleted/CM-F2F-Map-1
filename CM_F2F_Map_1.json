@@ -1,8 +1,8 @@
 {
     "name": "CM F2F Map 1",
-    "thumbnail": "img/CM F2F Map 1.png",
+    "thumbnail": "https://i.imgur.com/rgoCIOB.png",
     "author": "itsDeleted",
-    "type": "f2f",
+    "type": "race",
     "laps": 1,
 
     "allowedClasses": [
